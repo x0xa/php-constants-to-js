@@ -1,0 +1,1 @@
+# php-constants-to-js
